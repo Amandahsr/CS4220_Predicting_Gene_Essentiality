@@ -8,3 +8,4 @@ Scripts:
 3. WeightedNaiveBayes.py details the training and testing of our Weighted Naive Bayes model and benchmarking with the Gaussian Naive Bayes model.
 
 Project Overview:
+![](https://github.com/Amandahsr/CS4220_Predicting_Gene_Essentiality/blob/main/ProjectOverview.png)
