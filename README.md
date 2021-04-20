@@ -1,6 +1,7 @@
 # CS4220 Group Project: Predicting Gene Essentiality in Cancer Cell-Lines using a Weighted Naive Bayes Model
 This repository details the code used for the group project in the module CS4220 Knowledge Discovery Methods in Bioinformatics. 
 All code in this repository is formulated and implemented jointly by Amanda Ho Shan Rui, Benjamin Tan Jee Min, Chan Sheng You and Chen Tianying, Tiana.
+The gene essentiality problem is adapted from the [BROAD-DREAM Gene Essentiality Prediction Challenge](https://www.synapse.org/#!Synapse:syn2384331/wiki/62825).
 
 Scripts:
 1. Pre-processing.R details the pre-processing steps taken in R.
